@@ -1,9 +1,9 @@
 # Predicting-Product-Sales
 
-#### *Note:* This project has not been completed and is still in progress.
+## *Note:* This project has not been completed and is still in progress.
 
 
-## Workflows
+#### Workflows
 
 1. Update config.yaml 
 2. Update schema.yaml
