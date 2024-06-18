@@ -1,5 +1,7 @@
 # Predicting-Product-Sales
 
+#### *Note:* This project has not been completed and is still in progress.
+
 
 ## Workflows
 
